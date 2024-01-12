@@ -4,7 +4,7 @@ import { Balance } from "./components/Balance";
 import { IncomeExpenses } from "./components/IncomeExpenses";
 import { TransactionList } from "./components/TransactionList";
 import { AddTransaction } from "./components/AddTransaction";
-// timer;;
+// timer;;12;30
 
 export default function App() {
   return (
