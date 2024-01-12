@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>hello</h2>
     </div>
   );
 }
